@@ -40,7 +40,7 @@
 
 ### 6. RDP to SAP-B1 server
 * host/IP:  `xxx` (ask info)
-* account:  `xxx` (the predix of email account before `@`)
+* account:  `xxx` (the predix of your email account before `@`)
 * password: `xxx` (ask info)
 
 
