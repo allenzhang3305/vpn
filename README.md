@@ -9,49 +9,10 @@
 
 
 ## Client configuration
-### 1. open VPN settings window
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/open_vpn_settings.png" width=100 />
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/settings_add_a_vpn.PNG" width=100/>
+### 1. download [SoftEther VPN Client](http://www.softether-download.com/en.aspx?product=softether)
 
 ### 2. add a VPN connection
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/add_a_vpn.PNG" width=100 />
-
-   filling the fields with the correct information.  
-   * VPN provider            `Windows`
-   * Connection name         `vpn-odoo`
-   * Server name or address  `xxx` (ask info)
-   * VPN type                `L2TP/IPsec with pre-shared key`
-   * Pre-shared key          `xxx` (ask info)
-   * Type of sign-in info    `User name and password`
-   * User name (optional)    `xxx` (ask info)
-   * Password (optional)     `xxx` (ask info)
-
 ### 3. config VPN connection properties  
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/change_adapter_options.PNG" width=100 />
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/open_conn_properties.png" width=100 />
-
-####   3.1 config Security  
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/config_conn_security.PNG" width=100 />  
-
-   * Type of VPN     `Layer 2 Tunneling Protocol with IPsec (L2TP/IPsec)`
-   * Autherication   check `Challenge Handshake Autherication Protocol (CHAP)` and `Microsoft CHAP Version 2 (MS-CHAP v2)`
-
-####   3.2 config Networking  
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/open_networking_properties.PNG" width=100 />
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/config_conn_dns.PNG" width=100 />  
-
-   Use the following DNS server addresses:
-   * Preferred DNS server: `169.254.169.254`
-   * Alternet DNS server: `168.95.1.1`
-
-### 4. change registry  
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/cmd_run_as_admin.png" width=100 /> 
-   <img src="https://github.com/MRLIVING/odoo/blob/master/doc/img/run_cmd_2_change_registry.png" width=300 />  
-
-   * open `Command Prompt` with `administrator` privilege
-   * run `REG ADD HKLM\SYSTEM\CurrentControlSet\Services\PolicyAgent /v AssumeUDPEncapsulationContextOnSendRule /t REG_DWORD /d 0x2 /f`
-
-### 5. reboot system (Win 10)
 
 ### 6. open browser 
    * navigate `http://dev.mrl.com.tw` 
