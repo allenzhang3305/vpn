@@ -5,7 +5,7 @@
 
 ## Overview
 
-![](https://github.com/MRLIVING/odoo/blob/master/doc/img/mrl_vpn_overview.PNG)
+![](https://github.com/MRLIVING/vpn/blob/master/doc/img/mrl_network_overview.PNG?raw=true)
 
 
 ## Client configuration
