@@ -1,6 +1,7 @@
 ## TOC
 * [Overview](#overview)
 * [Client configuration](#client-configuration)
+* [Reference](#reference)
 
 
 ## Overview
