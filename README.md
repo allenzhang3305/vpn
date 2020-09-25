@@ -69,6 +69,7 @@
   * [ipsec man](https://libreswan.org/man/)
   * [How to read status output](https://libreswan.org/wiki/How_to_read_status_output)
 * [SoftEther VPN Project](https://www.softether.org/)
+  * [softether download center](http://www.softether-download.com/en.aspx?product=softether)
   * [How to Setup a Multi-Protocol VPN Server Using SoftEther](https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether)
 * [Building High-throughput VPNs between VPCs in GCP](https://cloud.google.com/solutions/building-high-throughput-vpns#top_of_page)
   * [Connecting to your network with Google Cloud VPN | 9.27.18 | Linux Academy](https://www.youtube.com/watch?v=Uhws3bXR7sc)
