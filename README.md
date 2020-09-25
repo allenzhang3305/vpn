@@ -17,6 +17,8 @@
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install1.PNG" width="200" />
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install2.PNG" width="200" />
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install3.PNG" width="200" />
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install4.PNG" width="200" />
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install5.PNG" width="200" />
 
 
 ### 3. config VPN connection properties  
