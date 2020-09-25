@@ -31,8 +31,8 @@
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_connect.PNG" width="200" />
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_connect_ok.PNG" width="200" />
 
-### 5. browser a page to verify the VPN connection 
-   * navigate `http://dev.mrl.com.tw` 
+### 5. browser a server page to verify the VPN connection 
+   * navigate `https://10.1.0.5:5555/` 
    * done.
 
 ## Reference
