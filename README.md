@@ -17,7 +17,7 @@
 #### 2.1 install VPN Client
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install1.PNG" width="200" /> <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install2.PNG" width="200" /> <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install3.PNG" width="200" /> 
 
-### 2.2 create an new Virtual Network Adapter
+### 2.2 new a Virtual Network Adapter
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install4.PNG" width="200" /> <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install5.PNG" width="200" />
 
 
