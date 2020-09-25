@@ -11,7 +11,8 @@
 ## Client configuration
 ### 1. download [SoftEther VPN Client](http://www.softether-download.com/en.aspx?product=softether)
 
-### 2. add a VPN connection
+### 2. install VPN Client
+
 ### 3. config VPN connection properties  
 
 ### 6. open browser 
