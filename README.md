@@ -18,6 +18,7 @@
 
 
 ### 3. config VPN connection properties  
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_client_new_conn.PNG" width="200"/>
 
 ### 6. open browser 
    * navigate `http://dev.mrl.com.tw` 
