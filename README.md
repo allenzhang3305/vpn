@@ -35,7 +35,8 @@
    * navigate `https://10.1.0.5:5555/` 
    * done.
    
-<img sec="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_server_page.PNG" width="200" />
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_server_page.PNG" width="200" />
+
 
 ## Reference
 * [SoftEther VPN Project](https://www.softether.org/)
