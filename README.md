@@ -33,11 +33,14 @@
 
 ### 5. browser a server page to verify the VPN connection 
    * navigate `https://10.1.0.5:5555/` 
-   * done.
+   * congratulations, VPN setup is done.
    
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_server_page.PNG" width="200" />
 
-
+### 6. RDP to SAP-B1 server
+* host/IP:  `xxx` (ask info)
+* account:  `xxx` (the predix of email account before `@`)
+* password: `xxx` (ask info)
 
 
 ## Reference
