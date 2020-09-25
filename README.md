@@ -61,9 +61,9 @@
 * windows error 809
 
 ## Reference
-* [Google Cloud Platform 搭建個人VPN](https://medium.com/%E6%BE%84%E6%80%9D%E8%A8%AD%E8%A8%88-%E6%B2%88%E6%80%9D%E4%B8%96%E7%95%8C%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/google-cloud-platform-%E6%90%AD%E5%BB%BA%E5%80%8B%E4%BA%BAvpn-358ccdbeca40)
 * [SoftEther VPN Project](https://www.softether.org/)
   * [softether download center](http://www.softether-download.com/en.aspx?product=softether)
+  * [How to install and configure SoftEther VPN on Windows](https://proprivacy.com/open-source/guides/install-configure-softether-vpn-device)
   * [How to Setup a Multi-Protocol VPN Server Using SoftEther](https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether)
 * [Building High-throughput VPNs between VPCs in GCP](https://cloud.google.com/solutions/building-high-throughput-vpns#top_of_page)
   * [Connecting to your network with Google Cloud VPN | 9.27.18 | Linux Academy](https://www.youtube.com/watch?v=Uhws3bXR7sc)
