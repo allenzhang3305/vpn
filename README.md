@@ -10,6 +10,7 @@
 
 ## Client configuration
 ### 1. download [SoftEther VPN Client](http://www.softether-download.com/en.aspx?product=softether)
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_download.PNG" width="200" />
 
 ### 2. install VPN Client
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_install1.PNG" width="200" />
