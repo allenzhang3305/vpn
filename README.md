@@ -25,15 +25,15 @@
 * User Name: ask info
 * Password: ask info
 
-<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_client_new_conn.PNG" width="200"/>
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_client_new_conn.PNG" width="200" />
 
+### 4. connect to VPN server
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_connect.PNG" width="200" />
+<img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_connect_ok.PNG" width="200" />
 
-### 6. open browser 
+### 5. browser a page to verify the VPN connection 
    * navigate `http://dev.mrl.com.tw` 
    * done.
-     
-## Troubleshooting
-* windows error 809
 
 ## Reference
 * [SoftEther VPN Project](https://www.softether.org/)
