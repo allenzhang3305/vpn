@@ -20,10 +20,10 @@
 ### 3. config VPN connection properties  
 #### 3.1 open VPN Client and new a connection
 #### 3.2 config properties
-* Host Name: `ask info`
+* Host Name: `xxx` (ask info)
 * Virtual Hub Name: `vpc-erp`
-* User Name: `ask info`
-* Password: `ask info`
+* User Name: `xxx` (ask info)
+* Password: `xxx` (ask info)
 
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_client_new_conn.PNG" width="200" />
 
