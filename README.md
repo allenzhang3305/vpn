@@ -41,7 +41,7 @@
    
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_server_page.PNG" width="200" />
 
-### 6. RDP to SAP-B1 server
+### 6. RDP to SAP-B1 server (Optional, Skip this step if you would like to use SAP with client appplication)
 * host/IP:  `xxx` (ask info)
 * account:  `xxx` (the predix of your email account before `@`)
 * password: `xxx` (ask info)
