@@ -3,7 +3,6 @@
 * [Client configuration](#client-configuration)
 * [Reference](#reference)
 
-
 ## Overview
 
 ![](https://github.com/MRLIVING/vpn/blob/master/doc/img/mrl_network_overview.PNG?raw=true)
@@ -45,6 +44,11 @@
 * host/IP:  `xxx` (ask info)
 * account:  `xxx` (the predix of your email account before `@`)
 * password: `xxx` (ask info)
+
+
+##  SoftEther Server setup
+TODO...
+
 
 
 ## Reference
