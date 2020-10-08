@@ -9,7 +9,7 @@
 ![](https://github.com/MRLIVING/vpn/blob/master/doc/img/mrl_network_overview.PNG?raw=true)
 
 
-## Client configuration
+##  SoftEther Client setup
 ### 1. download [SoftEther VPN Client](http://www.softether-download.com/en.aspx?product=softether)
 <img src="https://github.com/MRLIVING/vpn/blob/master/doc/img/se_vpn_client_download.PNG" width="200" />
 
