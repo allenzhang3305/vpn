@@ -1,6 +1,6 @@
 ## TOC
 * [Overview](#overview)
-* [Client configuration](#client-configuration)
+* [SoftEther Client setup](#softether-client-setup)
 * [Reference](#reference)
 
 ## Overview
