@@ -48,9 +48,15 @@
 
 ##  SoftEther Server setup
 TODO...
-HubCreate 
-UserCreate 
-UserPasswordSet 
+
+### Create A Virtual Hub
+`HubCreate ${HubName}`
+
+### Create a user
+`UserCreate ${UserName}`
+
+`UserPasswordSet ${UserName}`
+
 
 
 ## Reference
