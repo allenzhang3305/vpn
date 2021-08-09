@@ -5,7 +5,7 @@
 
 ## Overview
 
-![](https://github.com/MRLIVING/vpn/blob/master/doc/img/mrl_network_overview.PNG?raw=true)
+![](https://github.com/MRLIVING/vpn/blob/master/doc/img/mrl_network_overview.PNG)
 
 
 ##  SoftEther Client setup
