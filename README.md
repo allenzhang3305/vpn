@@ -62,4 +62,4 @@ TODO...
     * VPC subnet and cloud route
     * BGP
 * [GCP Network](https://www.youtube.com/playlist?list=PLIivdWyY5sqJ0oXcnZYqOnuNRsLF9H48u)
-  * [VPC default internal name server](https://cloud.google.com/dns/docs/overview#vpc-name-resolution-order)
+  * [Cloud DNS - VPC internal name server](https://cloud.google.com/dns/docs/overview#vpc-name-resolution-order)
