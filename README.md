@@ -48,7 +48,9 @@
 
 ##  SoftEther Server setup
 TODO...
-
+HubCreate 
+UserCreate 
+UserPasswordSet 
 
 
 ## Reference
