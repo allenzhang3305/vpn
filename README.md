@@ -61,9 +61,9 @@ TODO...
 
 ## Reference
 * [SoftEther VPN Project](https://www.softether.org/)
-  * [softether download center](http://www.softether-download.com/en.aspx?product=softether)
-  * [How to install and configure SoftEther VPN on Windows](https://proprivacy.com/open-source/guides/install-configure-softether-vpn-device)
   * [How to Setup a Multi-Protocol VPN Server Using SoftEther](https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether)
+  * [softether download center](http://www.softether-download.com/en.aspx?product=softether)
+  * [How to install and configure SoftEther VPN on Windows](https://proprivacy.com/open-source/guides/install-configure-softether-vpn-device) 
 * [Building High-throughput VPNs between VPCs in GCP](https://cloud.google.com/solutions/building-high-throughput-vpns#top_of_page)
   * [Connecting to your network with Google Cloud VPN | 9.27.18 | Linux Academy](https://www.youtube.com/watch?v=Uhws3bXR7sc)
     * VPC to VPC with cloud VPN
