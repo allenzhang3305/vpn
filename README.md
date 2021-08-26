@@ -61,6 +61,7 @@ TODO...
 ## Reference
 * [SoftEther VPN Project](https://www.softether.org/)
   * [How to Setup a Multi-Protocol VPN Server Using SoftEther](https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether)
+  * [Install on Linux and Initial Configurations](https://www.softether.org/4-docs/1-manual/7._Installing_SoftEther_VPN_Server/7.3_Install_on_Linux_and_Initial_Configurations)
   * [softether download center](http://www.softether-download.com/en.aspx?product=softether)
   * [How to install and configure SoftEther VPN client on Windows](https://proprivacy.com/open-source/guides/install-configure-softether-vpn-device) 
 * [Building High-throughput VPNs between VPCs in GCP](https://cloud.google.com/solutions/building-high-throughput-vpns#top_of_page)
